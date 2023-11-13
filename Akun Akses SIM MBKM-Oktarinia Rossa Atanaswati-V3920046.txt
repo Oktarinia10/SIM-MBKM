@@ -1,0 +1,18 @@
+Akses akun SIM MBKM :
+1. Admin
+   Username : ardianita06@gmail.com
+   Password : 11102002
+2. Dosen
+   Username : trisna123
+   Password : d3timadiun123
+3. Mahasiswa
+   Username : fajri2002
+   Password : d3timadiun
+4. Mitra
+   Username : piljur
+   Password : d3timadiun123
+5. Koordinator MBKM
+   Username : koor-mbkm
+   Password : d3timadiun123
+
+Versi PHP 8.1
